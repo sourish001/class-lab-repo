@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: J S SOURISH 
+- Certification: Meta Professional Database Engineer
 
 ## Instructions
 Please replace the placeholders with your details:
